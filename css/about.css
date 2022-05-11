@@ -1,0 +1,49 @@
+#MachelenDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-self: center;
+  padding: 0 10px 10px 10px;
+}
+
+#MachelenDiv p {
+  padding: 35px 15px 0 15px;
+}
+
+#UitlegMachelen {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ContainerDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-self: center;
+  margin: 20px 10px 20px 10px;
+  background-color: #2f3036;
+}
+
+.ContainerDiv p {
+  padding: 35px 15px 0 15px;
+}
+
+.Uitleg {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+img {
+  padding: 15px;
+}
+
+#Hobbys {
+  background-color: #2f3036;
+  margin: 20px 10px 20px 10px;
+  padding: 30px;
+}
